@@ -19,3 +19,6 @@ Its August already. I am still learning GIT
 
 Edit 5:
 I will do it through Github Desktop
+
+Edit 6:
+I will do it through Git CLI

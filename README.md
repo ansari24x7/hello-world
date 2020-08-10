@@ -22,3 +22,6 @@ I will do it through Github Desktop
 
 Edit 6:
 I will do it through Git CLI
+
+Edit 7:
+Only CLI
